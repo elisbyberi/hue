@@ -45,7 +45,8 @@ APPS := about \
   pig \
   search \
   hbase \
-  sqoop
+  sqoop \
+  hannibal
 
 ################################################
 # Install all applications into the Desktop environment
